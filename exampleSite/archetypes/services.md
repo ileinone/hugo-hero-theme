@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
+heroSubHeading: "The experience gathered from my previous assignments in information technology area has given me an immovable basis to advance in my career. I am sales oriented person and familiar with Enterprise Architecture (EA) and Software Architecture (including architectural tactics and design patterns, Service- Oriented Architecture, Integration Architecture, Infrastructure Architecture, System Architecture and Application Architecture), and have solid understanding and experience about cloud based technologies. My professional know how is supported by an excellent basis in telecommunications and software engineering education and I am willing to learn and grow more. IT since 2000, Java technology 17 years."
 heroBackground: 'services/service1.jpg'
 ---
 
