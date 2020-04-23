@@ -8,30 +8,12 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "The experience gathered from my previous assignments in information technology area
-                        has given me an immovable basis to advance in my career. I am sales oriented person
-                        and familiar with Enterprise Architecture (EA) and Software Architecture (including
-                        architectural tactics and design patterns, Service- Oriented Architecture, Integration
-                        Architecture, Infrastructure Architecture, System Architecture and Application
-                        Architecture), and have solid understanding and experience about cloud based
-                        technologies. \n\n
-                        My professional know how is supported by an excellent basis in telecommunications and
-                        software engineering education and I am willing to learn and grow more.\n\n
-                        IT since 2000, Java technology 17 years"
+    meta_description = "The "
     meta_og_title = "Ilkka Leinonen"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "The experience gathered from my previous assignments in information technology area
-                                                   has given me an immovable basis to advance in my career. I am sales oriented person
-                                                   and familiar with Enterprise Architecture (EA) and Software Architecture (including
-                                                   architectural tactics and design patterns, Service- Oriented Architecture, Integration
-                                                   Architecture, Infrastructure Architecture, System Architecture and Application
-                                                   Architecture), and have solid understanding and experience about cloud based
-                                                   technologies. \n\n
-                                                   My professional know how is supported by an excellent basis in telecommunications and
-                                                   software engineering education and I am willing to learn and grow more.\n\n
-                                                   IT since 2000, Java technology 17 years."
+    meta_og_description = "The experience gathered from my previous assignments in information technology area has given me an immovable basis to advance in my career. I am sales oriented person and familiar with Enterprise Architecture (EA) and Software Architecture (including architectural tactics and design patterns, Service- Oriented Architecture, Integration Architecture, Infrastructure Architecture, System Architecture and Application Architecture), and have solid understanding and experience about cloud based technologies. My professional know how is supported by an excellent basis in telecommunications and software engineering education and I am willing to learn and grow more. IT since 2000, Java technology 17 years."
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
